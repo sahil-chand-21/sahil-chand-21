@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-chand-21" alt="sahil-chand-21" /></a> </p>
 
-- 🔭 I’m currently working on **Currently sharpening my backend skills alongside DSA, after building a strong foundation in frontend development. Exploring AI and Data Science to stay in sync with the evolving tech landscape.**
+<h3 align="center">
+- 🔭 I’m **Currently sharpening my backend skills alongside DSA, after building a strong foundation in frontend development. Exploring AI and Data Science to stay in sync with the evolving tech landscape.**
 
-- 🌱 I’m currently learning **Currently learning backend development (Node.js, Express), diving deeper into Data Structures & Algorithms, and beginning my journey into AI and Data Science (Python, ML basics).**
+- 🌱 I’m **Currently learning backend development (Node.js, Express), diving deeper into Data Structures & Algorithms, and beginning my journey into AI and Data Science (Python, ML basics).**
 
-- 👯 I’m looking to collaborate on **Looking for to collaborate in the frontend part of the web development.**
+- 👯 I’m looking to collaborate **in the frontend part of the web development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahil-chand-21](https://github.com/sahil-chand-21)
 
@@ -20,6 +21,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sahil-chand-077org/](https://www.linkedin.com/in/sahil-chand-077org/)
 
 - ⚡ Fun fact **☕ + 💻 = ❤️ Fueled by coffee, driven by code.**
+  </h3>
+  <img align="right" alt="coding"  height="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
