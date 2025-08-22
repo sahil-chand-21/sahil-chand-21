@@ -38,8 +38,8 @@
 ## 📊 Stats & Activity  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manish363-dot&show_icons=true&title_color=ff0000&icon_color=00b050&text_color=ffffff&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish363-dot&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil-chand-21&show_icons=true&title_color=ff0000&icon_color=00b050&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-chand-21&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
