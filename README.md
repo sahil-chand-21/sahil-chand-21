@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sahil Chand</h1>
 <h3 align="center">💻 Diploma Student in Computer Science | Learning React.js & Node.js | Skilled in HTML, CSS, JS, Tailwind & GSAP | Passionate About Web Development,Web 3 and Dev Ops</h3>
 
+ <img align="center" alt="coding"  height="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-chand-21&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-chand-21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-chand-21" alt="sahil-chand-21" /></a> </p>
 
-<h3 align="center">
+
 - 🔭 I’m **Currently sharpening my backend skills alongside DSA, after building a strong foundation in frontend development. Exploring AI and Data Science to stay in sync with the evolving tech landscape.**
 
 - 🌱 I’m **Currently learning backend development (Node.js, Express), diving deeper into Data Structures & Algorithms, and beginning my journey into AI and Data Science (Python, ML basics).**
@@ -21,9 +24,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sahil-chand-077org/](https://www.linkedin.com/in/sahil-chand-077org/)
 
 - ⚡ Fun fact **☕ + 💻 = ❤️ Fueled by coffee, driven by code.**
-  </h3>
-  <img align="right" alt="coding"  height="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sahil_chand21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_chand21" height="30" width="40" /></a>
